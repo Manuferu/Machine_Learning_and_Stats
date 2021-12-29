@@ -36,4 +36,10 @@ An **specifications.txt** has been created and added to this project. Within thi
 
 [3] P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
+## Contact:
+
+Any queries regarding this project, please feel free to contact me to:
+
+Manuel Fernandez: g00387853@gmit.ie
+
 [![GitHub license](https://img.shields.io/github/license/Manuferu/Machine_Learning_and_Stats)](https://github.com/Manuferu/Machine_Learning_and_Stats/blob/main/LICENSE)
