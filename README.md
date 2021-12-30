@@ -1,9 +1,9 @@
 # Machine_Learning_and_Stats
-Material under the Machine LEarning and Statistics module for the Higher superior Diploma in Data Analytics - GMIT
+Material under the Machine Learning and Statistics module for the Higher superior Diploma in Data Analytics - GMIT
 
 ## Introduction
 
-This project has two main files (notebooks) where I have tried to first make a brief description of two python libraries: [**scikit-learn**](https://scikit-learn.org/stable/) and [**scipy**. **Scikit-learn**](https://scipy.org/) is a machine learning (ML) library that give a lot of tools available to perform both supervised and unsupervised ML techniques. On the other hand , **scipy** is a powerful library use to make several engineering operations and really complete to perform statistical analysis.  there are two jupyer notebooks:
+This project has two main files (notebooks) where I have tried to first make a brief description of two python libraries: [**scikit-learn**](https://scikit-learn.org/stable/) and [**scipy**](https://scipy.org/). **Scikit-learn** is a machine learning (ML) library that give a lot of tools available to perform both supervised and unsupervised ML techniques. On the other hand , **scipy** is a powerful library use to make several engineering operations and really complete to perform statistical analysis.  there are two jupyer notebooks:
 
 ## scikit-learn.ipynb:
 
